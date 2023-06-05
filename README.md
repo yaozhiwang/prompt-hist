@@ -17,13 +17,13 @@ Prompt History with Arrow Keys for ChatGPT.
 [release-image]: https://img.shields.io/github/v/release/yaozhiwang/prompt-hist?color=blue
 [release-url]: https://github.com/yaozhiwang/prompt-hist/releases/latest
 [chrome-image]: https://img.shields.io/badge/-Chrome-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white
-[chrome-url]:
+[chrome-url]: https://chrome.google.com/webstore/detail/chatgpt-prompt-history/jcgjphknncdiamdmnoaggbokonldhbjd
 [manual-image]: https://img.shields.io/badge/-Manual-lightgrey?style=for-the-badge
 [manual-url]: #manual-installation
 
 ### Screenshots
 
-![screenshot][./assets/screenshot.png]
+![screenshot](./assets/screenshot.png)
 
 </div>
 
